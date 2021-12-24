@@ -56,3 +56,8 @@ p {
 #nabar li a:hover {
   background-color: blanchedalmond;
 }
+
+* {
+  margin: 0;
+  padding: 0;
+}
