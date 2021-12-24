@@ -52,3 +52,7 @@ p {
 #navbar li a:last-child {
   float: right;
 }
+
+#nabar li a:hover {
+  background-color: blanchedalmond;
+}
