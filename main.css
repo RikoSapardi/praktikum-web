@@ -3,6 +3,8 @@ body {
 }
 
 hr {
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 50px;
   margin-bottom: 50px;
   border-width: 15px;
@@ -17,7 +19,7 @@ h2,
 h3 {
   text-align: center;
 }
-ol,
+ul,
 ol,
 img,
 p {
@@ -30,9 +32,9 @@ p {
 }
 
 #navbar {
+  margin-right: auto;
+  margin-left: auto;
   list-style-type: none;
-  margin: 0;
-  padding: 0;
   overflow: hidden;
   background-color: black;
 }
