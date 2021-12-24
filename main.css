@@ -48,3 +48,7 @@ p {
   padding: 14px 16px;
   text-decoration: none;
 }
+
+#navbar li a:last-child {
+  float: right;
+}
