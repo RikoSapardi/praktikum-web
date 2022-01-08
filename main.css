@@ -102,3 +102,28 @@ table tr:hover {
   color: white;
   margin-top: 15px;
 }
+
+.form-register {
+  position: static;
+  margin-bottom: 100px;
+}
+
+.content-form {
+  max-width: 70%;
+  margin: auto;
+}
+
+.form-login{
+  display: flex;
+justify-content: center;
+ align-items: center;
+ height: 90vh;
+ margin-bottom = 100px
+}
+
+.form-contact{
+  display : flex;
+ justify-content : center;
+ align-items : center;
+ margin-bottom : 100px;
+}
