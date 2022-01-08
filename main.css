@@ -74,6 +74,7 @@ table {
   max-width: 500px;
   margin: 0 auto;
   border-collapse: collapse;
+  margin-bottom: 100px;
 }
 
 table th {
@@ -91,6 +92,10 @@ table tr:hover {
 }
 
 .footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
   background-color: black;
   padding: 10px;
   text-align: center;
